@@ -58,8 +58,7 @@ void loop() {
 
 1. Abra a pasta do projeto no **VS Code** com a extensão **PlatformIO**.
 2. Conecte o Arduino ao computador via USB.
-3. Clique no botão **Upload** ($
-ightarrow$) do PlatformIO para gravar o código na placa.
+3. Clique no botão **Upload** → do PlatformIO para gravar o código na placa.
 4. Conecte a fonte externa de 5V no circuito com a carga/trafo conectada ao MOSFET.
 
 ---
